@@ -2,7 +2,7 @@ import { Box } from "@mui/material"
 import { Outlet } from "react-router-dom"
 import wallpaper from '../assets/authwallpaper.avif'
 const styles = {
-    container: { height:"97vh",width:"100%",margin:"0px",padding:"0px",
+    container: { height:"89vh",width:"100%",margin:"0px",padding:"0px",
         display:"flex",
         justifyContent:"space-between",
         alignItems:"center",
