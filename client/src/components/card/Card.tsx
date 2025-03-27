@@ -4,7 +4,7 @@ import { Box, Button, Stack, Typography } from "@mui/material"
 import { colors } from "../../uitils/colors"
 import { useNavigate } from "react-router-dom"
 const styles = {
-    reviews: {
+    reviews: {  
         fontFamily: '"Roboto", sans-serif',
         fontWeight: "400",
         fontSize: "11px",
